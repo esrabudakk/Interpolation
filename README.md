@@ -3,13 +3,16 @@
  
 1-Direct Method Interpolation :
 
-![directmethod](https://user-images.githubusercontent.com/81254850/130845175-3f34348a-fea4-4bd1-8660-6cff4a35da22.png)
+![direct](https://user-images.githubusercontent.com/81254850/130845475-8a85b050-506a-43c1-845b-6409df2668cd.png)
+
 
 
 2-Lagrange Interpolation Polynomial :
 
-![LagrangeMethod](https://user-images.githubusercontent.com/81254850/130845268-0c624437-9cb8-4dbc-8271-b6ddb135fa22.png)
+![Lagrange](https://user-images.githubusercontent.com/81254850/130845495-3681c95e-b1ed-4bf4-8530-f6eaebad45f4.png)
+
 
 3-Newton's Divided Difference Interpolation :
 
-![NewtonDiv](https://user-images.githubusercontent.com/81254850/130845374-371270b4-9377-4711-a39c-cf8becf41494.png)
+![Newton](https://user-images.githubusercontent.com/81254850/130845522-c06f9dc5-6995-46e6-ab60-5bd8d7004883.png)
+
