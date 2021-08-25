@@ -1,6 +1,8 @@
 # Interpolation
  Interpolation with Python
  
+ 20, 21, 23,24,25,27,29,30 april days from the General Coronavirus Table in Turkey are used as interpolation data. With Python, the death number on April 26 is calculated.
+ 
 1-Direct Method Interpolation :
 
 ![direct](https://user-images.githubusercontent.com/81254850/130845475-8a85b050-506a-43c1-845b-6409df2668cd.png)
